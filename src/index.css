@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+
+.wrapper_hero {
+  margin-top: 40px;
+}
+
+
+.hero_button{
+  margin-top: 23px;
+}
+
+.hero_p{
+  margin-top: 13px;
+}
+
+.brend{
+  margin-top: 90px;
+}
+
+.product{
+  margin-top: 90px;
+}
+
+.product1{
+  margin-top: 190px;
+}
+
+
+.produc{
+  margin-top: 90px;
+}
+
+.btn{
+  margin-top: 40px;
+}
